@@ -1,2 +1,2 @@
-# hazzard_ptr
+# hazard_ptr
 Hazard pointer in Rust
